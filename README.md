@@ -3,7 +3,7 @@
 This is an example for authorization and authentication via Middleware in Slim 3 PHP. 
 In this example, there are two users with a concept of an integer access level as follows:
 - Administrator : **Access Level 1**
-- Member : **Access Level 1**
+- Member : **Access Level 2**
 
 There is also a sample database export in *db_export/api_server.sql* containing a user table for authentication & authorization with details below:
 - Administrator:
