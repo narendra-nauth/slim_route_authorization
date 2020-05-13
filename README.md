@@ -14,7 +14,7 @@ There is also a sample database export in *db_export/api_server.sql* containing 
     - Username: member
     - Password: password
     
-##Installation Instructions
+## Installation Instructions
 1. Copy files to web host
 2. Import database and modify *models/database.php*
 3. Run *composer install* in cmd
