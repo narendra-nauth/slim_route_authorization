@@ -1,7 +1,7 @@
 <?php 
 	class DBHandler{
 		private static $host      = "localhost";
-		private static $dbname    = "tregon_slim";
+		private static $dbname    = "api_server";
 		private static $username  = "root";
 		private static $password  = "";
 		
